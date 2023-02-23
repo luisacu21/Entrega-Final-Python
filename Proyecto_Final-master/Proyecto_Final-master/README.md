@@ -1,4 +1,4 @@
-Perdomo-Steivi
+Luis Acuña
 Proyecto final del curso de Python en CoderHouse
 
 Activar el interprete
